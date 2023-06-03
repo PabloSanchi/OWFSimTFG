@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625070994693",
+    "project_id": "offshorewindfarm-c4f6b",
+    "storage_bucket": "offshorewindfarm-c4f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625070994693:android:c0f5ec4badcb8cd067f36c",
+        "android_client_info": {
+          "package_name": "com.sim.offshore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625070994693-rn0p15703vk9je7tokq20qn8615jv08q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIbu3ljxg2NYEqEkiKHabJaOt8bj6d_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625070994693-rn0p15703vk9je7tokq20qn8615jv08q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
